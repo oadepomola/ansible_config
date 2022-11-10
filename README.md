@@ -2,3 +2,5 @@
 project11
 
 test
+
+save artifacts
